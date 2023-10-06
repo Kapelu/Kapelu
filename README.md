@@ -2,6 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Kapelu-github-Kapelu&color=blue&style=plastic&label=Profile+View)
 
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kapelu)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kapelu.id)
+
 <section>
 	<a
 		href="https://www.linkedin.com/in/daniel-calderon-4a4854215/"
