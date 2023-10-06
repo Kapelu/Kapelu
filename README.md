@@ -39,7 +39,7 @@
 
 <br>
 <section style='padding: 0; text-align: justify; color: #f1ebeb;'>
-    <img width="300" height="300" align="right" src="https://raw.githubusercontent.com/Kapelu/Kapelu/main/public/png/README-tegnologias2.png" alt="Acerca de mi" style='shape-outside: circle();'>
+    <img width="300" height="300" align="right" src="https://raw.githubusercontent.com/Kapelu/Kapelu/main/public/png/README-acerca.png" alt="Acerca de mi" style='shape-outside: circle();'>
     <p style='font-size: 1rem;color: #777;'>
     Soy un desarrollador autodidacta y dedicado a aprender y mejorar 
     constantemente mis habilidades en programación y desarrollo web.
