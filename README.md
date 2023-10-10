@@ -1,11 +1,7 @@
 <h1 align="center" style='margin: 0; font-size: 2rem; text-align: center; color: #7776d6;'>Bienvenid@s, soy Daniel Calderon</h1>
+<br />
 
-![](https://komarev.com/ghpvc/?username=Kapelu-github-Kapelu&color=blue&style=plastic&label=Profile+View)
-
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kapelu)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kapelu.id)
+![](https://komarev.com/ghpvc/?username=Kapelu-github-Kapelu&color=blue&style=plastic&label=Visitas)
 
 <section>
 	<a
@@ -38,8 +34,18 @@
 			alt="Twiter"
 		/>
 	</a>
-</section>
+	<!-- <a 	
+		href="https://danielcalderon.vercel.app/"
+    	target="-blank"
+    	reel="noopener"
+    >
+    	<img
+    		src="https://visitor-badge.laobi.icu/badge?style=plastic&page_id=kapelu.id"
+    		alt="Profile"
+    	/>
+    </a> -->
 
+</section>
 
 
 <br>
