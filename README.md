@@ -24,18 +24,6 @@
 			alt="Twiter"
 		/>
 	</a>
-    
-	<!-- <a 	
-		href="https://danielcalderon.vercel.app/"
-    	target="-blank"
-    	reel="noopener"
-    >
-    	<img
-    		src="https://visitor-badge.laobi.icu/badge?style=plastic&page_id=kapelu.id"
-    		alt="Profile"
-    	/>
-    </a> -->
-
 </section>
 
 
