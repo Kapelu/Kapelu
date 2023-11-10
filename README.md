@@ -24,16 +24,7 @@
 			alt="Twiter"
 		/>
 	</a>
-    <a
-		href="https://wa.me/542615370075"
-		target="-blank"
-		reel="noopener"
-	>
-		<img
-			src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=%2B542615370075&text=Hola%20Daniel%20!!!%20Me%20podr%C3%ADas%20ayudar%20?"
-			alt="Twiter"
-		/>
-	</a>
+    
 	<!-- <a 	
 		href="https://danielcalderon.vercel.app/"
     	target="-blank"
