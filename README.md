@@ -56,7 +56,7 @@
     <h2 align="center">😊 &nbsp;Mis Habilidades Técnicas</h2>
     <br>
 	<img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu"/>
-    <img src="https://img.shields.io/badge/-Script-333333?style=flat&logo=powershell"/>
+	<img src="https://img.shields.io/badge/-Bash Script-333333?style=flat&logo=gnubash" /> 
 	<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
 	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
 	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
@@ -71,7 +71,6 @@
 	<img src="https://img.shields.io/badge/-nomgodb.js-333333?style=flat&logo=mongodb" />
 	<img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" />
 	<img src="https://img.shields.io/badge/-npm.js-333333?style=flat&logo=npm" />
-	<img src="https://img.shields.io/badge/-gnubash-333333?style=flat&logo=gnubash" /> 
 	<img src="https://img.shields.io/badge/-figma-333333?style=flat&logo=figma" />
     <br><br><br>
     <div>
