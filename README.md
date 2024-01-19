@@ -56,6 +56,7 @@
     <h2 align="center">😊 &nbsp;Mis Habilidades Técnicas</h2>
     <br>
 	<img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu"/>
+    <img src="https://img.shields.io/badge/-Script-333333?style=flat&logo=powershell"/>
 	<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
 	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
 	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
