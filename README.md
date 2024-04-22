@@ -84,7 +84,7 @@
 <br/>
 
 🚀 NUEVO PROYECTO
-> 💪⠀⠀23 - 04 - 2024⠀⠀⠀![Progress](https://progress-bar.dev/1/?scale=100&title=&width=100&color=babaca) 
+> 💪⠀23 - 04 - 2024⠀![Progress](https://progress-bar.dev/1/?scale=100&title=&width=500&color=babaca) 
 
 	
 <br>
