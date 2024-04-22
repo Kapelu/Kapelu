@@ -87,8 +87,8 @@
 
 
 
-> 23 - 04 - 2024 
-![Progress](https://progress-bar.dev/1/?scale=912&title=&width=1912&color=babaca) 
+> 23 - 04 - 2024⠀⠀-
+![Progress](https://progress-bar.dev/1/?scale=100&title=&width=1000&color=babaca) 
 
 	
 <br>
