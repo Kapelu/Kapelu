@@ -54,30 +54,42 @@
 <br>
 <section>
     <h2 align="center">😊 &nbsp;Mis Habilidades Técnicas</h2>
-    <br>
-	<img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu"/>
-	<img src="https://img.shields.io/badge/-Bash Script-333333?style=flat&logo=gnubash" /> 
-	<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
-	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
-	<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" />
-	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-	<img src="https://img.shields.io/badge/-bootrstap.js-333333?style=flat&logo=bootstrap" />
-	<img src="https://img.shields.io/badge/-sass.js-333333?style=flat&logo=sass" />
-	<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
-	<!-- <img src="https://img.shields.io/badge/-less.js-333333?style=flat&logo=less" /> -->
-	<img src="https://img.shields.io/badge/-express.js-333333?style=flat&logo=express" />
-	<img src="https://img.shields.io/badge/-axios.js-333333?style=flat&logo=axios" />
-	<img src="https://img.shields.io/badge/-nomgodb.js-333333?style=flat&logo=mongodb" />
-	<img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" />
-	<img src="https://img.shields.io/badge/-npm.js-333333?style=flat&logo=npm" />
-	<img src="https://img.shields.io/badge/-figma-333333?style=flat&logo=figma" />
-    <br><br><br>
-    <div>
-    <a href="https://github.com/Kapelu/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapelu&custom_title=Lenguajes%20mas%20usados&theme=calm&card_width=850" />
+    <br />
+		<div>
+    	<a href="https://github.com/Kapelu/github-readme-stats">
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapelu&custom_title=Lenguajes%20mas%20usados&theme=calm&card_width=850" />
+			</a>
     </div>
-	</a>
+	  <br>		
 </section>
+
+![](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubunt)
+![](https://img.shields.io/badge/-BashScript-333333?style=flat&logo=gnubash)
+![](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![](https://img.shields.io/badge/-bootrstap.js-333333?style=flat&logo=bootstrap)
+![](https://img.shields.io/badge/-sass.js-333333?style=flat&logo=sass)
+![](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
+![](https://img.shields.io/badge/-axios.js-333333?style=flat&logo=axios)
+![](https://img.shields.io/badge/-nomgodb.js-333333?style=flat&logo=mongodb)
+![](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![](https://img.shields.io/badge/-npm.js-333333?style=flat&logo=npm)
+![](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
+  
+<br/>
+<br/>
+
+🚀 NUEVO PROYECTO
+
+
+
+> 23 - 04 - 2024 
+![Progress](https://progress-bar.dev/1/?scale=912&title=&width=1912&color=babaca) 
+
+	
 <br>
 <h2 align="center">💻 &nbsp;Mis Proyectos</h2>
