@@ -23,7 +23,8 @@
 		src="https://img.shields.io/badge/Blog%20Personal-0077B5?style=plastic&logo=blogger&color=skyblue&logoColor=white&link=https://kapelu.vercel.app/"
 		alt="Blog Personal"
 	/>
-</a><a
+</a>
+<a
 	href="https://kapelu.vercel.app/"
 	target="_blank"
 	reel="noopener"
@@ -33,8 +34,6 @@
 		alt="Blog Personal"
 	/>
 </a>
-
-
 <br>
 <section style='padding: 0; text-align: justify; color: #f1ebeb;'>
     <img width="300" height="300" align="right" src="https://raw.githubusercontent.com/Kapelu/Kapelu/main/public/png/README-acerca.png" alt="Acerca de mi" style='shape-outside: circle();'>
@@ -60,16 +59,8 @@
     </p>
 </section>
 <br>
-<section>
-    <h2 align="center">😊 &nbsp;Mis Habilidades Técnicas</h2>
-    <br />
-		<div>
-    	<a href="https://github.com/Kapelu/github-readme-stats">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapelu&custom_title=Lenguajes%20mas%20usados&theme=calm&langs_count=10&card_width=850&locale=es" />
-			</a>
-    </div>
-	  <br>		
-</section>
+<h2 align="center">😊 &nbsp;Mis Habilidades Técnicas</h2>
+
 
 ![](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubunt)
 ![](https://img.shields.io/badge/-BashScript-333333?style=flat&logo=gnubash)
@@ -88,11 +79,11 @@
 ![](https://img.shields.io/badge/-npm.js-333333?style=flat&logo=npm)
 ![](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
   
-  ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/:storeId)
-
-
-<br/>
-<br/>
+<div>
+    	<a href="https://github.com/Kapelu/github-readme-stats">
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapelu&custom_title=Lenguajes%20mas%20usados&theme=calm&langs_count=10&card_width=850&locale=es" />
+			</a>
+</div>
  
 > 🚀 ⠀23 - 04 - 2024⠀![Progress](https://progress-bar.dev/1/?scale=160&title=&width=600&color=babaca&suffix=%20%) 
 
