@@ -3,28 +3,36 @@
 
 ![](https://komarev.com/ghpvc/?username=Kapelu-github-Kapelu&color=blue&style=plastic&label=Visitas)
 
-<section>
-	<a
-		href="https://www.linkedin.com/in/daniel-calderon-4a4854215/"
-		target="-blank"
-		reel="noopener"
+
+<a
+	href="https://www.linkedin.com/in/ddanielcalderon/"
+	target="_blank"
+	reel="noopener"
 	>
-		<img
-			src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-calderon-4a4854215/"
-			alt="LinkedIn"
-		/>
-	</a>
-    <a
-		href="https://twitter.com/ddanielcalderon"
-		target="-blank"
-		reel="noopener"
+	<img
+		src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ddanielcalderon/"
+		alt="LinkedIn"
+	/>
+</a>
+<a
+	href="https://kapelu.vercel.app/"
+	target="_blank"
+	reel="noopener"
 	>
-		<img
-			src="https://img.shields.io/badge/Twitter-0077B5?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/ddanielcalderon"
-			alt="Twiter"
-		/>
-	</a>
-</section>
+	<img
+		src="https://img.shields.io/badge/Blog%20Personal-0077B5?style=plastic&logo=blogger&color=skyblue&logoColor=white&link=https://kapelu.vercel.app/"
+		alt="Blog Personal"
+	/>
+</a><a
+	href="https://kapelu.vercel.app/"
+	target="_blank"
+	reel="noopener"
+	>
+	<img
+		src="https://img.shields.io/badge/Curriculum%20Vitae-0077B5?style=plastic&logo=read.cv&color=blue&logoColor=white&link=https://kapelu.vercel.app/"
+		alt="Blog Personal"
+	/>
+</a>
 
 
 <br>
@@ -80,11 +88,13 @@
 ![](https://img.shields.io/badge/-npm.js-333333?style=flat&logo=npm)
 ![](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
   
-<br/>
-<br/>
+  ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/:storeId)
 
-## 🚀  Nuevo Proyecto
-> 💪⠀23 - 04 - 2024⠀![Progress](https://progress-bar.dev/1/?scale=160&title=&width=600&color=babaca&suffix=%20%) 
+
+<br/>
+<br/>
+ 
+> 🚀 ⠀23 - 04 - 2024⠀![Progress](https://progress-bar.dev/1/?scale=160&title=&width=600&color=babaca&suffix=%20%) 
 
 	
 <br>
