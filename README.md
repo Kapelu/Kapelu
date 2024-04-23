@@ -64,20 +64,22 @@
 
 ![](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubunt)
 ![](https://img.shields.io/badge/-BashScript-333333?style=flat&logo=gnubash)
-![](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![](https://img.shields.io/badge/-bootrstap.js-333333?style=flat&logo=bootstrap)
-![](https://img.shields.io/badge/-sass.js-333333?style=flat&logo=sass)
+![](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![](https://img.shields.io/badge/-mdx-333333?style=flat&logo=mdx)
+![](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
+![](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwind-css)
+![](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
 ![](https://img.shields.io/badge/-axios.js-333333?style=flat&logo=axios)
 ![](https://img.shields.io/badge/-nomgodb.js-333333?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![](https://img.shields.io/badge/-npm.js-333333?style=flat&logo=npm)
 ![](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
+
   
 <div>
     	<a href="https://github.com/Kapelu/github-readme-stats">
