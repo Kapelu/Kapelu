@@ -62,8 +62,8 @@
 <h2 align="center">😊 &nbsp;Mis Habilidades Técnicas</h2>
 
 
-![](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
-![](https://img.shields.io/badge/-BashScript-333333?style=flat&logo=gnubash)
+![](https://img.shields.io/badge/-Ubuntu-333333?style=plastic&logo=Ubuntu)
+![](https://img.shields.io/badge/-BashScript-333333?style=plastic&logo=gnubash)
 ![](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
