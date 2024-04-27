@@ -25,7 +25,7 @@
 	/>
 </a>
 <a
-	href="https://kapelu.vercel.app/"
+	href="https://danielcalderon.vercel.app/"
 	target="_blank"
 	reel="noopener"
 	>
@@ -87,7 +87,7 @@
 			</a>
 </div>
  
-> 🚀 ⠀23 - 04 - 2024⠀![Progress](https://progress-bar.dev/1/?scale=160&title=&width=600&color=babaca&suffix=%20%) 
+> 🚀 ⠀23 - 04 - 2024⠀![Progress](https://progress-bar.dev/3/?scale=98&title=&width=600&color=babaca&suffix=%20%) 
 
 	
 <br>
