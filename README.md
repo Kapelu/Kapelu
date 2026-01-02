@@ -81,11 +81,7 @@
 ![](https://img.shields.io/badge/-Figma-333333?style=plastic&logo=Figma)
 
   
-<div>
-    	<a href="https://github.com/Kapelu/github-readme-stats">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapelu&custom_title=Lenguajes%20mas%20usados&theme=calm&langs_count=10&card_width=850&locale=es" />
-			</a>
-</div>
+
  
 
 	
