@@ -80,10 +80,12 @@
 ![](https://img.shields.io/badge/-npm.js-333333?style=plastic&logo=npm)
 ![](https://img.shields.io/badge/-Figma-333333?style=plastic&logo=Figma)
 
-  
 
- 
-
-	
 <br>
 <h2 align="center">💻 &nbsp;Mis Proyectos</h2>
+
+<p align="center">
+
+[![kapelu](https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&theme=cobalt&stats_format=bytes)](https://github.com/Kapelu)
+
+</p>
