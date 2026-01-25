@@ -81,11 +81,12 @@
 ![](https://img.shields.io/badge/-Figma-333333?style=plastic&logo=Figma)
 
 
+<p align="center">
+
+[![kapelu](https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&card_width=800&custom_title=Lenguajes%20m%C3%A1s%20usados%20por%20%40Kapelu&theme=cobalt&stats_format=bytes)](https://github.com/Kapelu)
+
+
+</p>
 <br>
 <h2 align="center">💻 &nbsp;Mis Proyectos</h2>
 
-<p align="center">
-
-[![kapelu](https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&theme=cobalt&stats_format=bytes)](https://github.com/Kapelu)
-
-</p>
