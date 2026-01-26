@@ -72,7 +72,7 @@
 
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
 <br />
-<p align="center">
+<p>
 <strong>Frontend:  </strong>
 <img src="https://img.shields.io/badge/HTML5-333333?style=plastic&logo=html5" />
 <img src="https://img.shields.io/badge/CSS3-333333?style=plastic&logo=css3&logoColor=1572B6" />
