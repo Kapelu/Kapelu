@@ -73,19 +73,29 @@
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Ubuntu-333333?style=plastic&logo=ubuntu" />
-<img src="https://img.shields.io/badge/Bash-333333?style=plastic&logo=gnubash" />
+
+<p>
+<strong>Frontend:</strong>
 <img src="https://img.shields.io/badge/HTML5-333333?style=plastic&logo=html5" />
 <img src="https://img.shields.io/badge/CSS3-333333?style=plastic&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Tailwind-333333?style=plastic&logo=tailwind-css" />
+<br />
+<strong>Backend:</strong>
 <img src="https://img.shields.io/badge/JavaScript-333333?style=plastic&logo=javascript" />
 <img src="https://img.shields.io/badge/TypeScript-333333?style=plastic&logo=typescript" />
-<img src="https://img.shields.io/badge/Tailwind-333333?style=plastic&logo=tailwind-css" />
 <img src="https://img.shields.io/badge/Node.js-333333?style=plastic&logo=node.js" />
 <img src="https://img.shields.io/badge/Express-333333?style=plastic&logo=express" />
+<br />
+<strong>Base de datos:</strong>
 <img src="https://img.shields.io/badge/MongoDB-333333?style=plastic&logo=mongodb" />
+<br />
+<strong>Herramientas:</strong>
+<img src="https://img.shields.io/badge/Ubuntu-333333?style=plastic&logo=ubuntu" />
+<img src="https://img.shields.io/badge/Bash-333333?style=plastic&logo=gnubash" />
 <img src="https://img.shields.io/badge/Git-333333?style=plastic&logo=git" />
 <img src="https://img.shields.io/badge/GitHub-333333?style=plastic&logo=github" />
 <img src="https://img.shields.io/badge/Figma-333333?style=plastic&logo=figma" />
+</p>
 </p>
 
 <br />
