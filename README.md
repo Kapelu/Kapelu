@@ -91,10 +91,10 @@
 <h2 align="center">💻 &nbsp;Mis Proyectos</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<!-- PORTFOLIO -->
-<a href="https://github.com/Kapelu/daniel-calderon-portfolio">
+<!-- LOGICA -->
+<a href="https://github.com/kapelu/logica">
     <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Kapelu&repo=daniel-calderon-portfolio&theme=cobalt"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
     />
 </a>
 
@@ -105,12 +105,15 @@
     />
 </a>
 
-<!-- LOGICA -->
-<a href="https://github.com/kapelu/logica">
+<!-- PORTFOLIO -->
+<a href="https://github.com/Kapelu/daniel-calderon-portfolio">
     <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Kapelu&repo=daniel-calderon-portfolio&theme=cobalt"
     />
 </a>
+
+
+
 
 </div>
 
