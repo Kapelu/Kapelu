@@ -1,5 +1,3 @@
-api/pin?username=kapelu
-
 <h1 align="center" style='margin: 0; font-size: 2rem; text-align: center; color: #7776d6;'>Bienvenid@s, soy Daniel Calderon</h1>
 <br />
 
@@ -96,6 +94,9 @@ api/pin?username=kapelu
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=daniel-calderon-portfolio&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
+
 
 </div>
