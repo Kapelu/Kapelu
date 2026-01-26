@@ -91,16 +91,26 @@
 <h2 align="center">💻 &nbsp;Mis Proyectos</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
+<!-- PORTFOLIO -->
+<a href="https://github.com/Kapelu/daniel-calderon-portfolio">
+    <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Kapelu&repo=daniel-calderon-portfolio&theme=cobalt"
+    />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/gist?id=7c125fd67c9e19a1665f95c004342761?username=kapelu&repo=daniel-calderon-portfolio&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
+<!-- BLOG -->
+<a href="https://github.com/kapelu/blog-kapelu">
+    <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt"
+    />
+</a>
 
-https://github.com/Kapelu/daniel-calderon-portfolio
-
- <script src="https://gist.github.com/Kapelu/.js"></script>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
-
+<!-- LOGICA -->
+<a href="https://github.com/kapelu/logica">
+    <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
+    />
+</a>
 
 </div>
+
