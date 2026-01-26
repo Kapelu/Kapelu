@@ -83,7 +83,7 @@
 
 <p align="center">
 
-[![kapelu](https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&card_width=800&custom_title=🚀%20Lenguajes%20m%C3%A1s%20usados%20por%20%40Kapelu&theme=cobalt&hide=perl&stats_format=bytes)](https://github.com/Kapelu)
+[![kapelu](https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&card_width=800&custom_title=🚀%20Lenguajes%20m%C3%A1s%20usados%20por%20mí&theme=cobalt&hide=perl&stats_format=bytes)](https://github.com/Kapelu)
 
 
 </p>
