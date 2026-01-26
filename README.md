@@ -1,3 +1,5 @@
+api/pin?username=kapelu
+
 <h1 align="center" style='margin: 0; font-size: 2rem; text-align: center; color: #7776d6;'>Bienvenid@s, soy Daniel Calderon</h1>
 <br />
 
@@ -83,10 +85,17 @@
 
 <p align="center">
 
-[![kapelu](https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&card_width=800&custom_title=Lenguajes%20m%C3%A1s%20usados%20por%20%40Kapelu&theme=cobalt&stats_format=bytes)](https://github.com/Kapelu)
+[![kapelu](https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&card_width=800&custom_title=🚀%20Lenguajes%20m%C3%A1s%20usados%20por%20%40Kapelu&theme=cobalt&hide=perl&stats_format=bytes)](https://github.com/Kapelu)
 
 
 </p>
 <br>
 <h2 align="center">💻 &nbsp;Mis Proyectos</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=daniel-calderon-portfolio&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
+
+</div>
