@@ -92,7 +92,11 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=daniel-calderon-portfolio&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/gist?id=7c125fd67c9e19a1665f95c004342761?username=kapelu&repo=daniel-calderon-portfolio&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
+
+https://github.com/Kapelu/daniel-calderon-portfolio
+
+ <script src="https://gist.github.com/Kapelu/.js"></script>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt)](https://github.com/kapelu/github-readme-stats)
 
