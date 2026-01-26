@@ -75,7 +75,8 @@
 <p>
 <strong>Frontend:  </strong>
 <img src="https://img.shields.io/badge/HTML5-333333?style=plastic&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-333333?style=plastic&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/CSS-333333?style=plastic&logo=css&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/React-333333?style=plastic&logo=React" />
 <img src="https://img.shields.io/badge/Tailwind-333333?style=plastic&logo=tailwind-css" />
 <br />
 <strong>Backend:  </strong>
