@@ -92,14 +92,10 @@
 
 <p align="center">
 <a href="https://github.com/Kapelu">
-    <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&layout=compact&card_width=800&custom_title=🚀%20Lenguajes%20más%20usados%20por%20mí&theme=tokyonight&hide=perl"
-    alt="Lenguajes más usados"
-    />#gh-light-mode-only
 	<img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&layout=compact&card_width=800&custom_title=🚀%20Lenguajes%20más%20usados%20por%20mí&theme=cobalt&hide=perl"
     alt="Lenguajes más usados"
-    />#gh-dark-mode-only
+    />
 </a>
 </p>
 
@@ -109,38 +105,26 @@
 
 <p align="center">
 <a href="https://github.com/kapelu/logica">
-    <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=tokyonight"
-    width="48%"
-    />#gh-light-mode-only
 	<img
     src="https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
     width="48%"
-    />#gh-dark-mode-only
+    />
 </a>
 
 <a href="https://github.com/kapelu/blog-kapelu">
-    <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=tokyonight"
-    width="48%"
-    />#gh-light-mode-only
 	<img
     src="https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt"
     width="48%"
-    />#gh-dark-mode-only
+    />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Kapelu/daniel-calderon-portfolio">
-    <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Kapelu&repo=daniel-calderon-portfolio&theme=tokyonight"
-    width="48%"
-    />#gh-light-mode-only
 	<img
     src="https://github-readme-stats.vercel.app/api/pin/?username=Kapelu&repo=daniel-calderon-portfolio&theme=cobalt"
     width="48%"
-    />#gh-dark-mode-only
+    />
 </a>
 </p>
 
