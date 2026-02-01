@@ -98,7 +98,7 @@
 <br />
 
 <p align="center">
-<a href="https://github.com/Kapelu">
+<a href="https://github.com/kapelu">
 	<img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&layout=compact&card_width=800&custom_title=🚀%20Lenguajes%20más%20usados%20por%20mí&theme=cobalt&hide=perl"
     alt="Lenguajes más usados"
