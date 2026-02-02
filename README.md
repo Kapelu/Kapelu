@@ -97,28 +97,6 @@
 </p>
 <br />
 
-<p align="center">
-<a href="https://github.com/kapelu/repo-github-readme-stats">
-	<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapelu&layout=compact&card_width=800&custom_title=🚀%20Lenguajes%20más%20usados%20por%20mí&theme=cobalt&hide=perl"
-    alt="Lenguajes más usados"
-    />
-</a>
-</p>
-<br />
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kapelu&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kapelu&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kapelu&show_icons=true" />
-</picture>
-<br />
-
 <h2 align="center">💻 Proyectos</h2>
 
 <p align="center">
