@@ -66,7 +66,8 @@
     constante para seguir aprendiendo de otros desarrolladores.
 </p>
 </section>
-
+<br />
+<br />
 <section>
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
 
