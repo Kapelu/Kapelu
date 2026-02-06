@@ -112,9 +112,25 @@
 <h2 align="center">💻 Proyectos</h2>
 
 <p align="center">
-<a href="https://github.com/kapelu/logica">
+<a href="https://github.com/kapelu/daniel-calderon-portfolio">
   <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=kapelu&theme=cobalt"
+    width="48%"
+  />
+</a>
+
+<a href="https://github.com/kapelu/blog-kapelu">
+  <img
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=daniel-calderon&theme=cobalt"
+    width="48%"
+  />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/kapelu/daniel-calderon-portfolio">
+  <img
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=markdown-to-html&theme=cobalt"
     width="48%"
   />
 </a>
@@ -128,16 +144,16 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/kapelu/daniel-calderon-portfolio">
+
+<a href="https://github.com/kapelu/logica">
   <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=daniel-calderon-portfolio&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=script-bash&theme=cobalt"
     width="48%"
   />
 </a>
-
 <a href="https://github.com/kapelu/daniel-calderon">
   <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=daniel-calderon&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
     width="48%"
   />
 </a>
