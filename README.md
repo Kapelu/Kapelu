@@ -37,7 +37,13 @@
 <br />
 
 <section>
-
+<img
+    src="https://raw.githubusercontent.com/Kapelu/Kapelu/main/public/png/README-acerca.png"
+    alt="Acerca de mí"
+    width="400"
+    height="400"
+    align="right"
+/>
 <p style="color:#777;">
     Soy un desarrollador autodidacta y dedicado a aprender y mejorar constantemente
     mis habilidades en programación y desarrollo web.
@@ -63,14 +69,6 @@
 
 <section>
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
-<br />
-<img
-    src="https://raw.githubusercontent.com/Kapelu/Kapelu/main/public/png/README-acerca.png"
-    alt="Acerca de mí"
-    width="400"
-    height="400"
-    align="right"
-/>
 
 <strong>Frontend:</strong><br />
 <img src="https://img.shields.io/badge/HTML5-333333?style=plastic&logo=html5" />
