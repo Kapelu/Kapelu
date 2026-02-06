@@ -71,7 +71,6 @@
     height="400"
     align="right"
 />
-<br />
 
 <strong>Frontend:</strong><br />
 <img src="https://img.shields.io/badge/HTML5-333333?style=plastic&logo=html5" />
@@ -98,7 +97,6 @@
 <img src="https://img.shields.io/badge/GitHub-333333?style=plastic&logo=github" />
 <img src="https://img.shields.io/badge/Figma-333333?style=plastic&logo=figma" />
 <br />
-
 <br />
 <br />
 <br />
