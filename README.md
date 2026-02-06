@@ -97,19 +97,29 @@
 </p>
 <br />
 
+<h2 align="center">📊 Lenguajes más usados</h2>
+
+<p align="center">
+    <img
+    src="https://repo-github-readme-stats.vercel.app/api/top-langs/?username=kapelu&layout=compact&theme=cobalt"
+    width="60%"
+    />
+</p>
+
+
 <h2 align="center">💻 Proyectos</h2>
 
 <p align="center">
 <a href="https://github.com/kapelu/logica">
 	<img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
     width="48%"
     />
 </a>
 
 <a href="https://github.com/kapelu/blog-kapelu">
 	<img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt"
     width="48%"
     />
 </a>
@@ -118,15 +128,17 @@
 <p align="center">
 <a href="https://github.com/Kapelu/daniel-calderon-portfolio">
 	<img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Kapelu&repo=daniel-calderon-portfolio&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=Kapelu&repo=daniel-calderon-portfolio&theme=cobalt"
     width="48%"
     />
 </a>
+
 <a href="https://github.com/Kapelu/daniel-calderon">
 	<img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Kapelu&repo=daniel-calderon&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=Kapelu&repo=daniel-calderon&theme=cobalt"
     width="48%"
     />
 </a>
 </p>
+
 
