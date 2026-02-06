@@ -102,16 +102,6 @@
 
 <br />
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
-
-<p align="center">
-    <img
-        src="./profile/stats.svg"
-        alt="GitHub Stats"
-        width="60%"
-    />
-</p>
-
 <h2 align="center">📊 Lenguajes más usados</h2>
 
 <p align="center">
