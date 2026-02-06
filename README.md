@@ -72,7 +72,6 @@
     align="right"
 />
 <br />
-<br />
 
 <strong>Frontend:</strong><br />
 <img src="https://img.shields.io/badge/HTML5-333333?style=plastic&logo=html5" />
@@ -100,6 +99,10 @@
 <img src="https://img.shields.io/badge/Figma-333333?style=plastic&logo=figma" />
 <br />
 
+<br />
+<br />
+<br />
+<br />
 
 <h2 align="center">🚀 Lenguajes más usados</h2>
 
