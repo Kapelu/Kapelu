@@ -81,7 +81,9 @@
 <img src="https://img.shields.io/badge/React-333333?style=plastic&logo=react" />
 <img src="https://img.shields.io/badge/Tailwind-333333?style=plastic&logo=tailwind-css" />
 <br /><br />
+</p>
 
+<p>
 <strong>Backend:</strong><br />
 <img src="https://img.shields.io/badge/JavaScript-333333?style=plastic&logo=javascript" />
 <img src="https://img.shields.io/badge/TypeScript-333333?style=plastic&logo=typescript" />
