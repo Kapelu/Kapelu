@@ -93,6 +93,7 @@
 <br /><br />
 
 <strong>Herramientas:</strong><br />
+<br />
 <img src="https://img.shields.io/badge/Ubuntu-333333?style=plastic&logo=ubuntu" />
 <img src="https://img.shields.io/badge/Bash-333333?style=plastic&logo=gnubash" />
 <img src="https://img.shields.io/badge/Git-333333?style=plastic&logo=git" />
