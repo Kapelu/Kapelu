@@ -71,6 +71,8 @@
     height="400"
     align="right"
 />
+<br />
+<br />
 
 <strong>Frontend:</strong><br />
 <img src="https://img.shields.io/badge/HTML5-333333?style=plastic&logo=html5" />
@@ -109,8 +111,6 @@
   />
 </p>
 </section>
-<br />
-<br />
 <section>
 <h2 align="center">💻 Proyectos</h2>
 
