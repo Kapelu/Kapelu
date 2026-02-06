@@ -68,8 +68,8 @@
 <img
     src="https://raw.githubusercontent.com/Kapelu/Kapelu/main/public/png/README-acerca.png"
     alt="Acerca de mí"
-    width="280"
-    height="280"
+    width="300"
+    height="300"
     align="right"
 />
 
