@@ -68,7 +68,6 @@
 </section>
 <br />
 <br />
-<section>
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
 
 <strong>Frontend:</strong><br />
@@ -110,8 +109,7 @@
     width="60%"
   />
 </p>
-</section>
-<section>
+
 <h2 align="center">💻 Proyectos</h2>
 
 <p align="center">
@@ -154,7 +152,6 @@
   />
 </a>
 </p>
-</section>
 <br />
 <br />
 
