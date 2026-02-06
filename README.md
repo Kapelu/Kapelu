@@ -106,7 +106,7 @@
 
 <p align="center">
   <img
-    src="https://repo-github-readme-stats.vercel.app/api/top-langs/?username=kapelu&layout=compact&card_width=450&custom_title=🚀%20Lenguajes%20más%20usados%20por%20mí&theme=cobalt&hide=perl,c,assembly,c++,python,jupyternotebook,pascal&langs_count=9"
+    src="https://repo-github-readme-stats.vercel.app/api/top-langs/?username=kapelu&layout=compact&card_width=450&custom_title=🚀%20Lenguajes%20más%20usados%20por%20mí&theme=cobalt&hide=perl,c,assembly,c++,python,nunjucks,pascal&langs_count=10"
     alt="Lenguajes más usados"
     width="60%"
   />
