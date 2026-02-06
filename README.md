@@ -61,8 +61,7 @@
 </p>
 </section>
 
-<br /><br />
-
+<section>
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
 <br />
 <img
@@ -99,6 +98,7 @@
 <img src="https://img.shields.io/badge/Figma-333333?style=plastic&logo=figma" />
 <br />
 
+
 <h2 align="center">🚀 Lenguajes más usados</h2>
 
 <p align="center">
@@ -108,7 +108,10 @@
     width="60%"
   />
 </p>
-
+</section>
+<br />
+<br />
+<section>
 <h2 align="center">💻 Proyectos</h2>
 
 <p align="center">
@@ -151,6 +154,7 @@
   />
 </a>
 </p>
+</section>
 <br />
 <br />
 
