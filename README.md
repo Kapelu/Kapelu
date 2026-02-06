@@ -89,8 +89,8 @@
 <img src="https://img.shields.io/badge/TypeScript-333333?style=plastic&logo=typescript" />
 <img src="https://img.shields.io/badge/Node.js-333333?style=plastic&logo=node.js" />
 <img src="https://img.shields.io/badge/Express-333333?style=plastic&logo=express" />
-<br /><br />
 </p>
+<br /><br />
 <strong>Base de datos:</strong><br />
 <img src="https://img.shields.io/badge/MongoDB-333333?style=plastic&logo=mongodb" /></p>
 <br /><br />
