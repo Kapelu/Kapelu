@@ -92,8 +92,9 @@
 <br /><br />
 </p>
 <strong>Base de datos:</strong><br />
-<img src="https://img.shields.io/badge/MongoDB-333333?style=plastic&logo=mongodb" />
+<img src="https://img.shields.io/badge/MongoDB-333333?style=plastic&logo=mongodb" /></p>
 <br /><br />
+
 <strong>Herramientas:</strong><br />
 <img src="https://img.shields.io/badge/Ubuntu-333333?style=plastic&logo=ubuntu" />
 <img src="https://img.shields.io/badge/Bash-333333?style=plastic&logo=gnubash" />
@@ -101,7 +102,6 @@
 <img src="https://img.shields.io/badge/GitHub-333333?style=plastic&logo=github" />
 <img src="https://img.shields.io/badge/Figma-333333?style=plastic&logo=figma" />
 </p>
-
 <br />
 
 <h2 align="center">🚀 Lenguajes más usados</h2>
