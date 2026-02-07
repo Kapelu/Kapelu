@@ -1,17 +1,17 @@
-<h1 align="center">
+<h1 align="center" style="color:#513085;" markdown="1">
     Bienvenid@s, soy Daniel Calderon
 </h1>
 
 <br />
 
-<p align="center">
+<p align="center" markdown="1">
 <img
     src="https://komarev.com/ghpvc/?username=Kapelu&color=blue&style=plastic&label=Visitas"
     alt="Visitas al perfil"
 />
 </p>
 
-<p align="center">
+<p align="center" markdown="1">
 <a href="https://www.linkedin.com/in/ddanielcalderon/" target="_blank" rel="noopener">
     <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"
@@ -36,7 +36,7 @@
 
 <br />
 
-<section>
+<section markdown="1">
 <img
     src="https://raw.githubusercontent.com/Kapelu/Kapelu/main/public/png/README-acerca.png"
     alt="Acerca de mí"
@@ -68,7 +68,7 @@
 </section>
 <br />
 <br />
-<h2 align="center">🛠️ Habilidades Técnicas</h2>
+<h2 align="center" markdown="1">🛠️ Habilidades Técnicas</h2>
 
 <strong>Frontend:</strong><br />
 <img src="https://img.shields.io/badge/HTML5-333333?style=plastic&logo=html5" />
@@ -100,9 +100,9 @@
 <br />
 <br />
 
-<h2 align="center">🚀 Lenguajes más usados</h2>
+<h2 align="center" markdown="1">🚀 Lenguajes más usados</h2>
 
-<p align="center">
+<p align="center" markdown="1">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/top-langs/?username=kapelu&layout=compact&card_width=450&custom_title=🚀%20Lenguajes%20más%20usados%20por%20mí&theme=cobalt&hide=perl,c,assembly,c++,python,nunjucks,pascal&langs_count=10"
     alt="Lenguajes más usados"
@@ -110,7 +110,7 @@
   />
 </p>
 
-<h2 align="center">💻 Proyectos</h2>
+<h2 align="center" markdown="1">💻 Proyectos</h2>
 
 <p align="center">
 <a href="https://github.com/kapelu/daniel-calderon-portfolio">
@@ -128,7 +128,7 @@
 </a>
 </p>
 
-<p align="center">
+<p align="center" markdown="1">
 <a href="https://github.com/kapelu/daniel-calderon-portfolio">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=markdown-to-html&theme=cobalt"
@@ -144,7 +144,7 @@
 </a>
 </p>
 
-<p align="center">
+<p align="center" markdown="1">
 <a href="https://github.com/kapelu/daniel-calderon">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
