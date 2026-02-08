@@ -120,34 +120,34 @@
   />
 </a>
 
-<a href="https://github.com/kapelu/blog-kapelu">
-  <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt"
-    width="48%"
-  />
-</a>
-</p>
-
-<p align="center" markdown="1">
 <a href="https://github.com/kapelu/daniel-calderon-portfolio">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=markdown-to-html&theme=cobalt"
     width="48%"
   />
 </a>
+</p>
 
+<p align="center" markdown="1">
 <a href="https://github.com/kapelu/blog-kapelu">
   <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=script-bash&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt"
+    width="48%"
+  />
+</a>
+
+<a href="https://github.com/kapelu/daniel-calderon">
+  <img
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
     width="48%"
   />
 </a>
 </p>
 
 <p align="center" markdown="1">
-<a href="https://github.com/kapelu/daniel-calderon">
+<a href="https://github.com/kapelu/blog-kapelu">
   <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=script-bash&theme=cobalt"
     width="48%"
   />
 </a>
