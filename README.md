@@ -113,7 +113,7 @@
 <h2 align="center" markdown="1">💻 Proyectos</h2>
 
 <p align="center">
-<a href="https://github.com/kapelu/daniel-calderon-portfolio">
+<a href="https://github.com/kapelu/daniel-calderon">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=daniel-calderon&theme=cobalt"
     width="48%"
