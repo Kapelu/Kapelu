@@ -150,6 +150,12 @@
     width="48%"
   />
 </a>
+<a href="https://github.com/kapelu/daniel-calderon-portfolio">
+  <img
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=markdown-to-html&theme=cobalt"
+    width="48%"
+  />
+</a>
 </p>
 <br />
 <br />
