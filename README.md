@@ -76,18 +76,18 @@
 <img src="https://img.shields.io/badge/CSS-333333?style=plastic&logo=css&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/React-333333?style=plastic&logo=react" />
 <img src="https://img.shields.io/badge/Tailwind-333333?style=plastic&logo=tailwind-css" />
-<br /><br />
+<br />
 
 <strong>Backend:</strong><br />
 <img src="https://img.shields.io/badge/JavaScript-333333?style=plastic&logo=javascript" />
 <img src="https://img.shields.io/badge/TypeScript-333333?style=plastic&logo=typescript" />
 <img src="https://img.shields.io/badge/Node.js-333333?style=plastic&logo=node.js" />
 <img src="https://img.shields.io/badge/Express-333333?style=plastic&logo=express" />
-<br /><br />
+<br />
 
 <strong>Base de datos:</strong><br />
 <img src="https://img.shields.io/badge/MongoDB-333333?style=plastic&logo=mongodb" />
-<br /><br />
+<br />
 
 <strong>Herramientas:</strong><br />
 <img src="https://img.shields.io/badge/Ubuntu-333333?style=plastic&logo=ubuntu" />
@@ -95,10 +95,6 @@
 <img src="https://img.shields.io/badge/Git-333333?style=plastic&logo=git" />
 <img src="https://img.shields.io/badge/GitHub-333333?style=plastic&logo=github" />
 <img src="https://img.shields.io/badge/Figma-333333?style=plastic&logo=figma" />
-<br />
-<br />
-<br />
-<br />
 <br />
 
 <h2 align="center" markdown="1">🚀 Lenguajes más usados</h2>
