@@ -45,10 +45,9 @@
   style="border-radius:50%; margin-left:15px;"
 />
 
-Soy un desarrollador autodidacta y dedicado a aprender...
 <p style="color:#777;">
-    Soy un desarrollador autodidacta y dedicado a aprender y mejorar constantemente
-    mis habilidades en programación y desarrollo web.
+    Desarrollador web autodidacta enfocado en construir soluciones eficientes, escalables.
+    Enfocado en mejorar constantemente mis habilidades en programación y desarrollo web.
 </p>
 
 <p style="color:#777;">
@@ -58,12 +57,13 @@ Soy un desarrollador autodidacta y dedicado a aprender...
 </p>
 
 <p style="color:#777;">
-    Como autodidacta, estoy acostumbrado a trabajar de forma independiente y tomar
-    la iniciativa en mis proyectos, desde el diseño de la arquitectura hasta la
+    Soy un desarrollador autodidacta y dedicado a aprender, estoy acostumbrado a trabajar de forma independiente y tomar la iniciativa en mis proyectos, desde el diseño de la arquitectura hasta la
     implementación y depuración del código.
 </p>
 
 <p style="color:#777;">
+    Me especializo en JavaScript y el ecosistema moderno, con experiencia en desarrollo fullstack. 
+    Me destaco por la capacidad de aprender rápido, adaptarme y resolver problemas de forma práctica.
     Disfruto de los desafíos del desarrollo web y valoro la retroalimentación
     constante para seguir aprendiendo de otros desarrolladores.
 </p>
