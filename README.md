@@ -69,7 +69,6 @@
 </p>
 </section>
 <br />
-<br />
 <h2 align="center" markdown="1">🛠️ Habilidades Técnicas</h2>
 
 <strong>Frontend:</strong><br />
