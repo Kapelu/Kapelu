@@ -37,14 +37,13 @@
 <br />
 
 <section markdown="1">
-<img
+<div style="width:280px; height:280px; border-radius:50%; overflow:hidden; float:right;">
+  <img
     src="https://raw.githubusercontent.com/Kapelu/Kapelu/main/public/png/README-acerca.png"
     alt="Acerca de mí"
-    width="280"
-    height="280"
-    style="border-radius: 50%; object-fit: cover;"
-    align="right"
-/>
+    style="width:100%; height:100%;"
+  />
+</div>
 <p style="color:#777;">
     Soy un desarrollador autodidacta y dedicado a aprender y mejorar constantemente
     mis habilidades en programación y desarrollo web.
