@@ -42,6 +42,7 @@
     alt="Acerca de mí"
     width="280"
     height="280"
+    style="border-radius: 50%; object-fit: cover;"
     align="right"
 />
 <p style="color:#777;">
