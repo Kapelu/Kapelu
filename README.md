@@ -112,7 +112,7 @@
 <p align="center" markdown="1">
 <a href="https://github.com/Kapelu/blog-kapelu">
   <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=kpsetupblog-kapelu&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt"
     width="48%"
   />
 </a>
