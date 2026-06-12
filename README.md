@@ -132,9 +132,9 @@
     width="48%"
   />
 </a>
-<a href="https://github.com/kapelu/blog-kapelu-first">
+<a href="https://github.com/Kapelu/first-blog-kapelu">
   <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu-first&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=first-blog-kapelu&theme=cobalt"
     width="48%"
   />
 </a>
