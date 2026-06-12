@@ -109,14 +109,28 @@
 
 <h2 align="center" markdown="1">💻 Proyectos</h2>
 
-<p align="center">
+<p align="center" markdown="1">
+<a href="https://github.com/Kapelu/blog-kapelu">
+  <img
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=kpsetupblog-kapelu&theme=cobalt"
+    width="48%"
+  />
+</a>
+<a href="https://github.com/kapelu/daniel-calderon">
+  <img
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=daniel-calderon&theme=cobalt"
+    width="48%"
+  />
+</a>
+</p>
+
+<p align="center" markdown="1">
 <a href="https://github.com/Kapelu/kpsetup">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=kpsetup&theme=cobalt"
     width="48%"
   />
 </a>
-
 <a href="https://github.com/Kapelu/logica">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
@@ -126,30 +140,15 @@
 </p>
 
 <p align="center" markdown="1">
-<a href="https://github.com/kapelu/daniel-calderon">
-  <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=daniel-calderon&theme=cobalt"
-    width="48%"
-  />
-</a>
 <a href="https://github.com/Kapelu/first-blog-kapelu">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=first-blog-kapelu&theme=cobalt"
     width="48%"
   />
 </a>
-</p>
-
-<p align="center" markdown="1">
 <a href="https://github.com/Kapelu/cheat-sheets">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=cheat-sheets&theme=cobalt"
-    width="48%"
-  />
-</a>
-<a href="https://github.com/Kapelu/markdown-to-html">
-  <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=markdown-to-html&theme=cobalt"
     width="48%"
   />
 </a>
