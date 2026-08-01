@@ -110,39 +110,39 @@
 <h2 align="center" markdown="1">💻 Proyectos</h2>
 
 <p align="center" markdown="1">
+<a href="https://github.com/Kapelu/login">
+  <img
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=login&theme=cobalt"
+    width="48%"
+  />
+</a>
 <a href="https://github.com/Kapelu/blog-kapelu">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=blog-kapelu&theme=cobalt"
     width="48%"
   />
 </a>
+</p>
+
+<p align="center" markdown="1">
 <a href="https://github.com/kapelu/daniel-calderon">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=daniel-calderon&theme=cobalt"
     width="48%"
   />
 </a>
-</p>
-
-<p align="center" markdown="1">
 <a href="https://github.com/Kapelu/api-collection">
   <img
     src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=api-collection&theme=cobalt"
     width="48%"
   />
 </a>
-<a href="https://github.com/Kapelu/kpsetup">
-  <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=kpsetup&theme=cobalt"
-    width="48%"
-  />
-</a>
 </p>
 
 <p align="center" markdown="1">
-<a href="https://github.com/Kapelu/logica">
+<a href="https://github.com/Kapelu/kpsetup">
   <img
-    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=logica&theme=cobalt"
+    src="https://repo-github-readme-stats.vercel.app/api/pin/?username=kapelu&repo=kpsetup&theme=cobalt"
     width="48%"
   />
 </a>
